@@ -239,6 +239,7 @@ public enum EntityType {
     PARROT("parrot", Parrot.class, 105),
     VILLAGER("villager", Villager.class, 120),
     ENDER_CRYSTAL("ender_crystal", EnderCrystal.class, 200),
+    LULZ("lulz", EntityLulz.class, 343),
     // These don't have an entity ID in nms.EntityTypes.
     /**
      * A flying lingering potion
